@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+     "homepage": "https://dardoguizzo.github.io/hmmerctter-web-app"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
